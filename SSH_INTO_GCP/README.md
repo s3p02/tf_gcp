@@ -70,4 +70,4 @@ Click 'yes' when prompted to continue.
   <img src="figs/17_login_as.png">
 </kbd>
 
- [Back to Main](https://github.com/s3p02/jupyter_gcp_nvidia-docker_digits)
+ [Back to Main](https://github.com/s3p02/tf_gcp)

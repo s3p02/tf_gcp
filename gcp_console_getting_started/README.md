@@ -183,4 +183,4 @@ You are most likely going to encounter an error after clicking create. This is p
   <img src="figs/23_stop_instance.png">
 </kbd>
 
-[Back to Main](https://github.com/s3p02/jupyter_gcp_nvidia-docker_digits)
+ [Back to Main](https://github.com/s3p02/tf_gcp)

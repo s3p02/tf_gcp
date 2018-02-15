@@ -34,4 +34,4 @@ Google is giving away $300 valid for one year to use their platform [try it for 
 
  Click 'Start my free trial'.
  
- [Back to Main](https://github.com/s3p02/jupyter_gcp_nvidia-docker_digits)
+ [Back to Main](https://github.com/s3p02/tf_gcp)

@@ -48,4 +48,4 @@
 
 # Similarly follow the same procedure from the begining to enable port 8888 for jupyter notebook.
 
- [Back to Main](https://github.com/s3p02/jupyter_gcp_nvidia-docker_digits)
+ [Back to Main](https://github.com/s3p02/tf_gcp)
