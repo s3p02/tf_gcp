@@ -1,4 +1,4 @@
-# Deep Learning Image Classification Tutorial 
+# Deep Learning Image Classification Tutorial 2
 
 We will be using the [Caffe framwork](http://caffe.berkeleyvision.org) on Google Cloud Platform, with [Docker containers](https://en.wikipedia.org/wiki/Docker_(software)) to help us get started quickly. I have made this tutorial for [Dr. Dan Connors](http://www.ucdenver.edu/academics/colleges/Engineering/Programs/Electrical-Engineering/FacultyandStaff/Pages/DanConnors.aspx) of [University of Colorado Denver.](http://www.ucdenver.edu/academics/colleges/Engineering/Programs/Electrical-Engineering/FacultyandStaff/Pages/DanConnors.aspx) This tutorial will help students who take [ELEC 5727-3 Computer Vision](http://catalog.ucdenver.edu/preview_course_nopop.php?catoid=10&coid=64812)
 
